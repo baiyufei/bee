@@ -4,3 +4,4 @@
 - [s2](/cpp/s2.cc) 策略模式
 - [s3](/cpp/s3.cc) 观察者模式
 - [s4](/cpp/s4.cc) 实现 map 的 string key 不区分大小写
+- [s5](/cpp/s5.cc) gtest 测试
