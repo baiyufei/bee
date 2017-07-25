@@ -8,3 +8,4 @@
 - [s6](/cpp/s6.cc) pthread_once 实现单例模式
 - [s7](/cpp/s7.cc) 进程atfork测试
 - [s8](/cpp/s8.cc) leetcode 78：求集合的子集
+- [s9](/cpp/s9.cc) libuv 测试
