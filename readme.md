@@ -6,4 +6,5 @@
 - [s4](/cpp/s4.cc) 实现 map 的 string key 不区分大小写
 - [s5](/cpp/s5.cc) gtest 测试
 - [s6](/cpp/s6.cc) pthread_once 实现单例模式
-- [s7](/cpp/s7.cc) 进程atfork测试 
+- [s7](/cpp/s7.cc) 进程atfork测试
+- [s8](/cpp/s8.cc) leetcode 78：求集合的子集
