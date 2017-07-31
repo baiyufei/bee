@@ -9,3 +9,4 @@
 - [s7](/cpp/s7.cc) 进程atfork测试
 - [s8](/cpp/s8.cc) leetcode 78：求集合的子集
 - [s9](/cpp/s9.cc) libuv 测试
+- [s11](c/cpp/s11.cc) linux 消息队列
